@@ -6,5 +6,6 @@ PYTHOB PRACTICE QUESTION
 2) OOPS basics :
        classes, OOPS, Polymorphism, Abstraction, encapsulation, Inheritance, decorators, dunder method, property of decorators, static method, class method
 
-3) Multiprocessing and Multithreading, Exception basics
+3) Multiprocessing and Multithreading, Exception basics.
+4) DATABASES AND WEB API, FLASK
    ***************************************************************************************************
